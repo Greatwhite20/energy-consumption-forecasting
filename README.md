@@ -118,6 +118,6 @@ Typical R² scores:
 
 ## 👤 Author
 
-**Your Name**
+ANSHUL RATHORE
 B.Tech Electrical Engineering | MNNIT Allahabad
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+
