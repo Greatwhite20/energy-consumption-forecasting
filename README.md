@@ -64,7 +64,7 @@ energy-forecasting/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/energy-forecasting.git
+git clone https://github.com/Greatwhite20/energy-forecasting.git
 cd energy-forecasting
 ```
 
